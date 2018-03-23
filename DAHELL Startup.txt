@@ -1,0 +1,2241 @@
+Def-linked translation error: Found no Verse.ThingDef named RPP_Hauler_II_disabled to match RPP_Hauler_II_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Hauler_III_disabled to match RPP_Hauler_III_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Hauler_III_disabled to match RPP_Hauler_III_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Hauler_IV_disabled to match RPP_Hauler_IV_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Hauler_IV_disabled to match RPP_Hauler_IV_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Cleaner_II_disabled to match RPP_Cleaner_II_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Cleaner_II_disabled to match RPP_Cleaner_II_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Cleaner_III_disabled to match RPP_Cleaner_III_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Cleaner_III_disabled to match RPP_Cleaner_III_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Cleaner_IV_disabled to match RPP_Cleaner_IV_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Cleaner_IV_disabled to match RPP_Cleaner_IV_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_I_disabled to match RPP_Bot_Builder_I_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_I_disabled to match RPP_Bot_Builder_I_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_II_disabled to match RPP_Bot_Builder_II_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_II_disabled to match RPP_Bot_Builder_II_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_III_disabled to match RPP_Bot_Builder_III_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_III_disabled to match RPP_Bot_Builder_III_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_IV_disabled to match RPP_Bot_Builder_IV_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_IV_disabled to match RPP_Bot_Builder_IV_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_I_disabled to match RPP_Bot_Crafter_I_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_I_disabled to match RPP_Bot_Crafter_I_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_II_disabled to match RPP_Bot_Crafter_II_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_II_disabled to match RPP_Bot_Crafter_II_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_III_disabled to match RPP_Bot_Crafter_III_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_III_disabled to match RPP_Bot_Crafter_III_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_IV_disabled to match RPP_Bot_Crafter_IV_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_IV_disabled to match RPP_Bot_Crafter_IV_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_I_disabled to match RPP_Bot_ER_I_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_I_disabled to match RPP_Bot_ER_I_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_II_disabled to match RPP_Bot_ER_II_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_II_disabled to match RPP_Bot_ER_II_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_III_disabled to match RPP_Bot_ER_III_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_III_disabled to match RPP_Bot_ER_III_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_IV_disabled to match RPP_Bot_ER_IV_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_IV_disabled to match RPP_Bot_ER_IV_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_I_disabled to match RPP_Bot_Kitchen_I_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_I_disabled to match RPP_Bot_Kitchen_I_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_II_disabled to match RPP_Bot_Kitchen_II_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_II_disabled to match RPP_Bot_Kitchen_II_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_III_disabled to match RPP_Bot_Kitchen_III_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_III_disabled to match RPP_Bot_Kitchen_III_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_IV_disabled to match RPP_Bot_Kitchen_IV_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_IV_disabled to match RPP_Bot_Kitchen_IV_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Omni_V_disabled to match RPP_Bot_Omni_V_disabled.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Omni_V_disabled to match RPP_Bot_Omni_V_disabled.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Component to match RPP_Component.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Component to match RPP_Component.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_I to match RPP_Matrix_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_I to match RPP_Matrix_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_II to match RPP_Matrix_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_II to match RPP_Matrix_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_III to match RPP_Matrix_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_III to match RPP_Matrix_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_IV to match RPP_Matrix_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_IV to match RPP_Matrix_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_V to match RPP_Matrix_V.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Matrix_V to match RPP_Matrix_V.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Hauler_II to match RPP_Bot_Hauler_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Hauler_II to match RPP_Bot_Hauler_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Hauler_III to match RPP_Bot_Hauler_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Hauler_III to match RPP_Bot_Hauler_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Hauler_IV to match RPP_Bot_Hauler_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Hauler_IV to match RPP_Bot_Hauler_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AIRobot_Cleaner_II to match AIRobot_Cleaner_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AIRobot_Cleaner_II to match AIRobot_Cleaner_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AIRobot_Cleaner_III to match AIRobot_Cleaner_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AIRobot_Cleaner_III to match AIRobot_Cleaner_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AIRobot_Cleaner_IV to match AIRobot_Cleaner_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AIRobot_Cleaner_IV to match AIRobot_Cleaner_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_I to match RPP_Bot_Builder_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_I to match RPP_Bot_Builder_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_II to match RPP_Bot_Builder_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_II to match RPP_Bot_Builder_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_III to match RPP_Bot_Builder_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_III to match RPP_Bot_Builder_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_IV to match RPP_Bot_Builder_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Builder_IV to match RPP_Bot_Builder_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_I to match RPP_Bot_Crafter_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_I to match RPP_Bot_Crafter_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_II to match RPP_Bot_Crafter_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_II to match RPP_Bot_Crafter_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_III to match RPP_Bot_Crafter_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_III to match RPP_Bot_Crafter_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_IV to match RPP_Bot_Crafter_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Crafter_IV to match RPP_Bot_Crafter_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_I to match RPP_Bot_ER_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_I to match RPP_Bot_ER_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_II to match RPP_Bot_ER_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_II to match RPP_Bot_ER_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_III to match RPP_Bot_ER_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_III to match RPP_Bot_ER_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_IV to match RPP_Bot_ER_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_ER_IV to match RPP_Bot_ER_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_I to match RPP_Bot_Kitchen_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_I to match RPP_Bot_Kitchen_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_II to match RPP_Bot_Kitchen_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_II to match RPP_Bot_Kitchen_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_III to match RPP_Bot_Kitchen_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_III to match RPP_Bot_Kitchen_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_IV to match RPP_Bot_Kitchen_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Kitchen_IV to match RPP_Bot_Kitchen_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Omni_V to match RPP_Bot_Omni_V.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named RPP_Bot_Omni_V to match RPP_Bot_Omni_V.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AirVent_Blueprint to match AirVent_Blueprint.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AirVent_Frame to match AirVent_Frame.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ThingDef named AirVent_Frame to match AirVent_Frame.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_I to match RPP_Research_Matrix_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_I to match RPP_Research_Matrix_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_II to match RPP_Research_Matrix_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_II to match RPP_Research_Matrix_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_III to match RPP_Research_Matrix_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_III to match RPP_Research_Matrix_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_IV to match RPP_Research_Matrix_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_IV to match RPP_Research_Matrix_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_V to match RPP_Research_Matrix_V.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Matrix_V to match RPP_Research_Matrix_V.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Fundamentals to match RPP_Research_Fundamentals.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Fundamentals to match RPP_Research_Fundamentals.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Cleaner_I to match RPP_Research_Cleaner_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Cleaner_I to match RPP_Research_Cleaner_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Cleaner_II to match RPP_Research_Cleaner_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Cleaner_II to match RPP_Research_Cleaner_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Cleaner_III to match RPP_Research_Cleaner_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Cleaner_III to match RPP_Research_Cleaner_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Cleaner_IV to match RPP_Research_Cleaner_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Cleaner_IV to match RPP_Research_Cleaner_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Hauler_I to match RPP_Research_Hauler_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Hauler_I to match RPP_Research_Hauler_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Hauler_II to match RPP_Research_Hauler_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Hauler_II to match RPP_Research_Hauler_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Hauler_III to match RPP_Research_Hauler_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Hauler_III to match RPP_Research_Hauler_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Hauler_IV to match RPP_Research_Hauler_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Hauler_IV to match RPP_Research_Hauler_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Builder_I to match RPP_Research_Builder_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Builder_I to match RPP_Research_Builder_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Builder_II to match RPP_Research_Builder_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Builder_II to match RPP_Research_Builder_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Builder_III to match RPP_Research_Builder_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Builder_III to match RPP_Research_Builder_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Builder_IV to match RPP_Research_Builder_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Builder_IV to match RPP_Research_Builder_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Crafter_I to match RPP_Research_Crafter_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Crafter_I to match RPP_Research_Crafter_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Crafter_II to match RPP_Research_Crafter_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Crafter_II to match RPP_Research_Crafter_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Crafter_III to match RPP_Research_Crafter_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Crafter_III to match RPP_Research_Crafter_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Crafter_IV to match RPP_Research_Crafter_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Crafter_IV to match RPP_Research_Crafter_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_ER_I to match RPP_Research_ER_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_ER_I to match RPP_Research_ER_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_ER_II to match RPP_Research_ER_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_ER_II to match RPP_Research_ER_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_ER_III to match RPP_Research_ER_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_ER_III to match RPP_Research_ER_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_ER_IV to match RPP_Research_ER_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_ER_IV to match RPP_Research_ER_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Kitchen_I to match RPP_Research_Kitchen_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Kitchen_I to match RPP_Research_Kitchen_I.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Kitchen_II to match RPP_Research_Kitchen_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Kitchen_II to match RPP_Research_Kitchen_II.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Kitchen_III to match RPP_Research_Kitchen_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Kitchen_III to match RPP_Research_Kitchen_III.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Kitchen_IV to match RPP_Research_Kitchen_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Kitchen_IV to match RPP_Research_Kitchen_IV.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Omni_V to match RPP_Research_Omni_V.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.ResearchProjectDef named RPP_Research_Omni_V to match RPP_Research_Omni_V.description
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Hauler_II to match RPP_Bot_Hauler_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Hauler_III to match RPP_Bot_Hauler_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Hauler_IV to match RPP_Bot_Hauler_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named AIRobot_Cleaner_II to match AIRobot_Cleaner_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named AIRobot_Cleaner_III to match AIRobot_Cleaner_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named AIRobot_Cleaner_IV to match AIRobot_Cleaner_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Builder_I to match RPP_Bot_Builder_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Builder_II to match RPP_Bot_Builder_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Builder_III to match RPP_Bot_Builder_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Builder_IV to match RPP_Bot_Builder_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Crafter_I to match RPP_Bot_Crafter_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Crafter_II to match RPP_Bot_Crafter_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Crafter_III to match RPP_Bot_Crafter_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Crafter_IV to match RPP_Bot_Crafter_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_ER_I to match RPP_Bot_ER_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_ER_II to match RPP_Bot_ER_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_ER_III to match RPP_Bot_ER_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_ER_IV to match RPP_Bot_ER_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Kitchen_I to match RPP_Bot_Kitchen_I.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Kitchen_II to match RPP_Bot_Kitchen_II.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Kitchen_III to match RPP_Bot_Kitchen_III.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Kitchen_IV to match RPP_Bot_Kitchen_IV.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no Verse.PawnKindDef named RPP_Bot_Omni_V to match RPP_Bot_Omni_V.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Def-linked translation error: Found no RimWorld.WorkGiverDef named DoBills_RPP_Robotics to match DoBills_RPP_Robotics.label
+Verse.Log:Warning(String)
+Verse.DefInjectionPackage:InjectIntoDefs()
+Verse.LoadedLanguage:InjectIntoData()
+Verse.PlayDataLoader:<DoPlayLoad>m__1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Could not execute post-long-event action. Exception: System.TypeInitializationException: An exception was thrown by the type initializer for CompVehicle.HarmonyCompVehicle ---> System.Reflection.ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <filename unknown>:0 
+  at Harmony.AccessTools+<>c.<TypeByName>b__1_0 (System.Reflection.Assembly x) [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateSelectManyIterator>c__Iterator12`2[System.Reflection.Assembly,System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable.FirstOrDefault[Type] (IEnumerable`1 source, System.Func`2 predicate) [0x00000] in <filename unknown>:0 
+  at Harmony.AccessTools.TypeByName (System.String name) [0x00000] in <filename unknown>:0 
+  at CompVehicle.HarmonyCompVehicle..cctor () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (RuntimeTypeHandle type) [0x00000] in <filename unknown>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x00000] in <filename unknown>:0 
+  at Verse.PlayDataLoader.<DoPlayLoad>m__2 () [0x00000] in <filename unknown>:0 
+  at Verse.LongEventHandler.ExecuteToExecuteWhenFinished () [0x00000] in <filename unknown>:0 
+Verse.Log:Error(String)
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Update_Patch1(Object)
+Verse.Root_Entry:Update()
+
+Injecting guest beds into the following facilities: EndTable, Dresser, VitalsMonitor, Anon2Dresser, Anon2EndTable, Anon2RoyalEndTable, Anon2EndTableLight, Anon2RoyalEndTableLight
+Verse.Log:Message(String)
+Hospitality.<GetFacilitiesFor>d__6:MoveNext()
+System.Collections.Generic.List`1:AddEnumerable(IEnumerable`1)
+System.Collections.Generic.List`1:.ctor(IEnumerable`1)
+System.Linq.Enumerable:ToArray(IEnumerable`1)
+Hospitality.Hospitality_SpecialInjector:Inject()
+Hospitality.ModBaseHospitality:Inject()
+Hospitality.ModBaseHospitality:Initialize()
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.LongEventHandler:<UpdateCurrentAsynchronousEvent>m__1()
+
+Created guest beds for the following beds: SleepingSpot, Bed, DoubleBed, RoyalBed, HospitalBed, Bedroll, BedrollDouble, EliteBed, EliteDoubleBed, FirstClassBed, HerbBede, MedBed, IIMed
+Verse.Log:Message(String)
+Hospitality.Hospitality_SpecialInjector:CreateGuestBedDefs(ThingDef[], CompProperties_Facility[])
+Hospitality.Hospitality_SpecialInjector:Inject()
+Hospitality.ModBaseHospitality:Inject()
+Hospitality.ModBaseHospitality:Initialize()
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.LongEventHandler:<UpdateCurrentAsynchronousEvent>m__1()
+
+[HugsLib] v4.1.1 initialized WhileYoureUp, GiddyUpCore, BattleMounts, GiddyUpCaravan, GiddyUpRideAndRoll, WM_Too_Many_Leathers, Smarter_Food_Selection, DeepOreIdentifier, MealsAreMeals, AllowTool, Notifications_Archiver, DaysMatter, XnopeCore, XnopeUnclampedWalls, Hospitality, NanondaltVisualAddons, LessArbitrarySurgery, ImprovedWorkbenches, CentralizedClimateControl, Psychology, RunAndGun, Supply_And_Demand, RunandHide
+Verse.Log:Message(String)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.LongEventHandler:<UpdateCurrentAsynchronousEvent>m__1()
+
+[WM_Too_Many_Leathers] Merged 73 leather types into 39 tiers. 33 unique types left untouched.
+Created [Tier 1 leather (thrumbo)] (defname: Thrumbo_Leather) with leathers from species: thrumbo
+Created [Tier 2 leather (procoptodon)] (defname: Procoptodon_Leather) with leathers from species: procoptodon
+Created [Tier 3 leather (arctic wolf)] (defname: WolfArctic_Leather) with leathers from species: arctic wolf
+Created [Tier 4 leather (titanoboa)] (defname: Titanoboa_Leather) with leathers from species: titanoboa
+Created [Tier 5 leather (gigantopithecus)] (defname: Gigantopithecus_Leather) with leathers from species: gigantopithecus
+Created [Tier 6 leather (lynx)] (defname: Lynx_Leather) with leathers from species: lynx
+Created [Tier 7 leather (pig)] (defname: Pig_Leather) with leathers from species: pig
+Created [Tier 8 leather] (defname: Alpaca_Leather) with leathers from species: alpaca ; snowhare ; yorkshire terrier ; warg ; quarter horse ; black horse ; white horse ; palomino
+Created [Tier 9 leather (chinchilla)] (defname: Chinchilla_Leather) with leathers from species: chinchilla
+Created [Tier 10 leather (chalicotherium)] (defname: Chalicotherium_Leather) with leathers from species: chalicotherium
+Created [Tier 11 leather (macrauchenia)] (defname: Macrauchenia_Leather) with leathers from species: macrauchenia
+Created [Tier 12 leather] (defname: Muffalo_Leather) with leathers from species: muffalo ; dromedary ; grizzly bear ; polar bear ; megatherium ; husky ; elk ; caribou ; timber wolf ; fennec fox ; red fox ; arctic fox
+Created [Tier 13 leather (hare)] (defname: Hare_Leather) with leathers from species: hare
+Created [Tier 14 leather (quinkana)] (defname: Quinkana_Leather) with leathers from species: quinkana
+Created [Tier 15 leather (megalania)] (defname: Megalania_Leather) with leathers from species: megalania
+Created [Tier 16 leather (gomphotaria)] (defname: Gomphotaria_Leather) with leathers from species: gomphotaria
+Created [Tier 17 leather (dinornis)] (defname: Dinornis_Leather) with leathers from species: dinornis
+Created [Tier 18 leather (daeodon)] (defname: Entelodont_Leather) with leathers from species: daeodon
+Created [Tier 19 leather (titanis)] (defname: Titanis_Leather) with leathers from species: titanis
+Created [Tier 20 leather] (defname: Cougar_Leather) with leathers from species: cougar ; panther ; labrador retriever ; cat ; deer ; ibex ; boomalope
+Created [Tier 21 leather (squirrel)] (defname: Squirrel_Leather) with leathers from species: squirrel
+Created [Tier 22 leather (andrewsarchus)] (defname: Andrewsarchus_Leather) with leathers from species: andrewsarchus
+Created [Tier 23 leather (dinocrocuta)] (defname: Dinocrocuta_Leather) with leathers from species: dinocrocuta
+Created [Tier 24 leather (smilodon)] (defname: Smilodon_Leather) with leathers from species: smilodon
+Created [Tier 25 leather (cow)] (defname: Cow_Leather) with leathers from species: cow
+Created [Tier 26 leather (alphabeaver)] (defname: Alphabeaver_Leather) with leathers from species: alphabeaver
+Created [Tier 27 leather] (defname: Gazelle_Leather) with leathers from species: gazelle ; capybara ; monkey
+Created [Tier 28 leather (paraceratherium)] (defname: Paraceratherium_Leather) with leathers from species: paraceratherium
+Created [Tier 29 leather (wooly mammoth)] (defname: WoolyMammoth_Leather) with leathers from species: wooly mammoth
+Created [Tier 30 leather (diprotodon)] (defname: Diprotodon_Leather) with leathers from species: diprotodon
+Created [Tier 31 leather (elasmotherium)] (defname: Elasmotherium_Leather) with leathers from species: elasmotherium
+Created [Tier 32 leather (doedicurus)] (defname: Doedicurus_Leather) with leathers from species: doedicurus
+Created [Tier 33 leather] (defname: Boomrat_Leather) with leathers from species: boomrat ; raccoon ; rat
+Created [Tier 34 leather (human)] (defname: Human_Leather) with leathers from species: human
+Created [Tier 35 leather (rhinoceros)] (defname: Rhinoceros_Leather) with leathers from species: rhinoceros
+Created [Tier 36 leather (elephant)] (defname: Elephant_Leather) with leathers from species: elephant
+Created [Tier 37 leather (sivatherium )] (defname: Sivatherium_Leather) with leathers from species: sivatherium 
+Created [Tier 38 leather (megaloceros)] (defname: Megaloceros_Leather) with leathers from species: megaloceros
+Created [Tier 39 leather] (defname: Iguana_Leather) with leathers from species: iguana ; cassowary ; emu ; ostrich ; turkey ; tortoise ; cobra
+
+Verse.Log:Message(String)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+WM.TooManyLeathers.Log:Message(String)
+WM.TooManyLeathers.Config:DefsLoaded()
+HugsLib.HugsLibController:OnDefsLoaded()
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.LongEventHandler:<UpdateCurrentAsynchronousEvent>m__1()
+
+[Smarter_Food_Selection] Loaded - 290 food categorized - 800 pawn diets - 2 compatibility patches (3 fixes) - 17 policies.
+Verse.Log:Message(String)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+WM.SmarterFoodSelection.ModCore:processDefs()
+WM.SmarterFoodSelection.ModCore:DefsLoaded()
+HugsLib.HugsLibController:OnDefsLoaded()
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.LongEventHandler:<UpdateCurrentAsynchronousEvent>m__1()
+
+[DaysMatter] Loaded.
+Verse.Log:Message(String)
+RimWorldDaysMatter.DaysMatter:DefsLoaded()
+HugsLib.HugsLibController:OnDefsLoaded()
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.LongEventHandler:<UpdateCurrentAsynchronousEvent>m__1()
+
+[ImprovedWorkbenches] Adding support for ProjectRimFactory
+Verse.Log:Message(String)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+ImprovedWorkbenches.Main:IntegrateWithRimFactory()
+ImprovedWorkbenches.Main:DefsLoaded()
+HugsLib.HugsLibController:OnDefsLoaded()
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.LongEventHandler:<UpdateCurrentAsynchronousEvent>m__1()
